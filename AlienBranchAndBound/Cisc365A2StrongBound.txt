@@ -1,0 +1,578 @@
+  this is problem: Instance With 20 Items
+id: 7  weight: 2   value: 69
+id: 9  weight: 2   value: 27
+id: 12  weight: 7   value: 75
+id: 10  weight: 10   value: 83
+id: 1  weight: 4   value: 32
+id: 8  weight: 14   value: 92
+id: 11  weight: 6   value: 39
+id: 19  weight: 14   value: 67
+id: 13  weight: 23   value: 68
+id: 16  weight: 23   value: 61
+id: 2  weight: 31   value: 64
+id: 5  weight: 38   value: 74
+id: 4  weight: 42   value: 81
+Total value: 832  Total weight: 216 Max weight: 223
+The number of partial solutions generated: 267
+  this is problem: Instance With 21 Items
+id: 13  weight: 9   value: 67
+id: 21  weight: 16   value: 97
+id: 8  weight: 23   value: 85
+id: 6  weight: 25   value: 62
+id: 5  weight: 44   value: 71
+id: 14  weight: 49   value: 63
+id: 11  weight: 76   value: 97
+id: 2  weight: 59   value: 75
+id: 18  weight: 48   value: 56
+id: 7  weight: 53   value: 53
+id: 20  weight: 31   value: 27
+id: 17  weight: 92   value: 53
+Total value: 806  Total weight: 525 Max weight: 526
+The number of partial solutions generated: 340
+  this is problem: Instance With 22 Items
+id: 15  weight: 9   value: 95
+id: 22  weight: 12   value: 93
+id: 5  weight: 9   value: 27
+id: 14  weight: 12   value: 36
+id: 12  weight: 21   value: 57
+id: 18  weight: 28   value: 73
+id: 10  weight: 36   value: 75
+id: 20  weight: 27   value: 54
+id: 17  weight: 45   value: 86
+id: 19  weight: 60   value: 97
+id: 6  weight: 61   value: 86
+id: 11  weight: 65   value: 77
+id: 2  weight: 58   value: 58
+Total value: 914  Total weight: 443 Max weight: 446
+The number of partial solutions generated: 5851
+  this is problem: Instance With 23 Items
+id: 21  weight: 2   value: 60
+id: 13  weight: 6   value: 93
+id: 17  weight: 11   value: 80
+id: 14  weight: 14   value: 56
+id: 3  weight: 15   value: 51
+id: 5  weight: 20   value: 53
+id: 10  weight: 20   value: 50
+id: 4  weight: 29   value: 66
+id: 19  weight: 26   value: 50
+id: 6  weight: 34   value: 56
+id: 2  weight: 53   value: 82
+id: 8  weight: 63   value: 95
+id: 11  weight: 46   value: 66
+id: 9  weight: 73   value: 96
+Total value: 954  Total weight: 412 Max weight: 455
+The number of partial solutions generated: 10275
+  this is problem: Instance With 24 Items
+id: 13  weight: 3   value: 46
+id: 18  weight: 8   value: 98
+id: 9  weight: 10   value: 36
+id: 8  weight: 27   value: 69
+id: 21  weight: 25   value: 62
+id: 15  weight: 45   value: 81
+id: 2  weight: 57   value: 95
+id: 14  weight: 54   value: 87
+id: 23  weight: 16   value: 24
+id: 22  weight: 66   value: 91
+id: 6  weight: 76   value: 84
+id: 3  weight: 36   value: 30
+Total value: 803  Total weight: 423 Max weight: 423
+The number of partial solutions generated: 4428
+  this is problem: Instance With 25 Items
+id: 14  weight: 2   value: 76
+id: 4  weight: 2   value: 53
+id: 15  weight: 2   value: 43
+id: 8  weight: 12   value: 91
+id: 3  weight: 11   value: 80
+id: 22  weight: 14   value: 73
+id: 23  weight: 24   value: 90
+id: 12  weight: 28   value: 85
+id: 2  weight: 21   value: 59
+id: 11  weight: 35   value: 82
+id: 9  weight: 27   value: 62
+id: 24  weight: 26   value: 54
+id: 10  weight: 42   value: 80
+id: 5  weight: 39   value: 72
+Total value: 1000  Total weight: 285 Max weight: 285
+The number of partial solutions generated: 8799
+  this is problem: Instance With 26 Items
+id: 19  weight: 3   value: 34
+id: 7  weight: 4   value: 45
+id: 14  weight: 8   value: 75
+id: 13  weight: 4   value: 29
+id: 22  weight: 9   value: 63
+id: 15  weight: 15   value: 99
+id: 23  weight: 5   value: 27
+id: 4  weight: 20   value: 89
+id: 11  weight: 30   value: 97
+id: 17  weight: 21   value: 64
+id: 3  weight: 25   value: 62
+id: 9  weight: 32   value: 74
+id: 18  weight: 30   value: 68
+id: 25  weight: 46   value: 99
+Total value: 925  Total weight: 252 Max weight: 276
+The number of partial solutions generated: 53491
+  this is problem: Instance With 27 Items
+id: 27  weight: 18   value: 53
+id: 8  weight: 7   value: 14
+id: 10  weight: 55   value: 98
+id: 20  weight: 60   value: 98
+id: 4  weight: 61   value: 99
+id: 23  weight: 44   value: 63
+id: 25  weight: 64   value: 83
+id: 7  weight: 38   value: 49
+id: 1  weight: 76   value: 97
+id: 6  weight: 84   value: 86
+id: 14  weight: 108   value: 99
+id: 11  weight: 67   value: 59
+Total value: 898  Total weight: 682 Max weight: 684
+The number of partial solutions generated: 116524
+  this is problem: Instance With 28 Items
+id: 27  weight: 4   value: 63
+id: 11  weight: 7   value: 60
+id: 21  weight: 13   value: 100
+id: 22  weight: 11   value: 51
+id: 26  weight: 22   value: 80
+id: 24  weight: 36   value: 97
+id: 18  weight: 37   value: 97
+id: 10  weight: 43   value: 89
+id: 1  weight: 50   value: 89
+id: 28  weight: 34   value: 60
+id: 2  weight: 55   value: 83
+id: 13  weight: 54   value: 72
+id: 9  weight: 60   value: 72
+Total value: 1013  Total weight: 426 Max weight: 440
+The number of partial solutions generated: 92407
+  this is problem: Instance With 29 Items
+id: 21  weight: 1   value: 60
+id: 27  weight: 4   value: 40
+id: 8  weight: 7   value: 33
+id: 15  weight: 4   value: 17
+id: 19  weight: 12   value: 47
+id: 18  weight: 13   value: 48
+id: 2  weight: 22   value: 61
+id: 20  weight: 33   value: 82
+id: 1  weight: 9   value: 22
+id: 13  weight: 20   value: 36
+id: 4  weight: 52   value: 87
+id: 7  weight: 61   value: 100
+id: 6  weight: 68   value: 98
+id: 24  weight: 34   value: 49
+id: 28  weight: 45   value: 59
+id: 10  weight: 83   value: 97
+Total value: 936  Total weight: 468 Max weight: 471
+The number of partial solutions generated: 198142
+  this is problem: Instance With 30 Items
+id: 19  weight: 17   value: 52
+id: 17  weight: 61   value: 100
+id: 7  weight: 21   value: 32
+id: 4  weight: 66   value: 94
+id: 3  weight: 58   value: 78
+id: 2  weight: 70   value: 91
+id: 1  weight: 65   value: 83
+id: 20  weight: 99   value: 96
+id: 26  weight: 88   value: 82
+id: 22  weight: 101   value: 83
+Total value: 791  Total weight: 646 Max weight: 701
+The number of partial solutions generated: 307423
+  this is problem: Instance With 31 Items
+id: 10  weight: 10   value: 85
+id: 22  weight: 32   value: 98
+id: 6  weight: 32   value: 61
+id: 16  weight: 45   value: 80
+id: 20  weight: 22   value: 34
+id: 29  weight: 35   value: 50
+id: 15  weight: 49   value: 68
+id: 21  weight: 66   value: 70
+id: 14  weight: 33   value: 32
+id: 18  weight: 98   value: 84
+id: 7  weight: 76   value: 55
+id: 31  weight: 153   value: 89
+id: 30  weight: 127   value: 67
+Total value: 873  Total weight: 778 Max weight: 849
+The number of partial solutions generated: 157898
+  this is problem: Instance With 32 Items
+id: 17  weight: 1   value: 72
+id: 6  weight: 1   value: 47
+id: 1  weight: 4   value: 89
+id: 21  weight: 6   value: 82
+id: 11  weight: 31   value: 90
+id: 14  weight: 22   value: 57
+id: 23  weight: 42   value: 95
+id: 28  weight: 32   value: 68
+id: 32  weight: 34   value: 66
+id: 15  weight: 39   value: 73
+id: 29  weight: 44   value: 72
+id: 30  weight: 65   value: 84
+id: 31  weight: 52   value: 49
+Total value: 944  Total weight: 373 Max weight: 440
+The number of partial solutions generated: 59641
+  this is problem: Instance With 33 Items
+id: 10  weight: 15   value: 91
+id: 23  weight: 9   value: 54
+id: 11  weight: 16   value: 92
+id: 19  weight: 9   value: 45
+id: 9  weight: 18   value: 77
+id: 32  weight: 6   value: 24
+id: 24  weight: 35   value: 100
+id: 8  weight: 8   value: 18
+id: 20  weight: 59   value: 100
+id: 27  weight: 9   value: 14
+id: 16  weight: 42   value: 60
+id: 18  weight: 17   value: 24
+id: 29  weight: 67   value: 85
+id: 4  weight: 76   value: 89
+id: 1  weight: 99   value: 85
+id: 6  weight: 103   value: 81
+Total value: 1039  Total weight: 588 Max weight: 591
+The number of partial solutions generated: 537224
+  this is problem: Instance With 34 Items
+id: 26  weight: 1   value: 45
+id: 16  weight: 16   value: 81
+id: 19  weight: 6   value: 30
+id: 32  weight: 22   value: 92
+id: 2  weight: 24   value: 69
+id: 12  weight: 20   value: 48
+id: 7  weight: 36   value: 81
+id: 3  weight: 42   value: 58
+id: 23  weight: 16   value: 20
+id: 17  weight: 39   value: 42
+id: 4  weight: 108   value: 99
+id: 21  weight: 70   value: 57
+id: 34  weight: 67   value: 52
+id: 33  weight: 97   value: 68
+id: 29  weight: 145   value: 90
+id: 8  weight: 43   value: 26
+Total value: 958  Total weight: 752 Max weight: 764
+The number of partial solutions generated: 341536
+  this is problem: Instance With 35 Items
+id: 9  weight: 1   value: 60
+id: 17  weight: 4   value: 66
+id: 18  weight: 5   value: 49
+id: 25  weight: 19   value: 92
+id: 23  weight: 27   value: 93
+id: 7  weight: 37   value: 81
+id: 14  weight: 36   value: 74
+id: 28  weight: 51   value: 99
+id: 8  weight: 42   value: 66
+id: 34  weight: 58   value: 87
+id: 11  weight: 37   value: 53
+id: 22  weight: 5   value: 7
+id: 16  weight: 38   value: 51
+id: 15  weight: 85   value: 99
+id: 1  weight: 85   value: 87
+id: 19  weight: 102   value: 81
+id: 35  weight: 53   value: 38
+Total value: 1183  Total weight: 685 Max weight: 685
+The number of partial solutions generated: 733047
+  this is problem: Instance With 36 Items
+id: 17  weight: 3   value: 95
+id: 36  weight: 17   value: 44
+id: 29  weight: 54   value: 99
+id: 12  weight: 51   value: 85
+id: 21  weight: 34   value: 50
+id: 2  weight: 51   value: 74
+id: 15  weight: 49   value: 67
+id: 27  weight: 57   value: 77
+id: 25  weight: 69   value: 92
+id: 35  weight: 82   value: 99
+id: 14  weight: 76   value: 90
+id: 30  weight: 91   value: 83
+id: 6  weight: 121   value: 86
+id: 34  weight: 27   value: 17
+id: 33  weight: 136   value: 82
+Total value: 1140  Total weight: 918 Max weight: 925
+The number of partial solutions generated: 1137018
+  this is problem: Instance With 37 Items
+id: 15  weight: 1   value: 37
+id: 13  weight: 2   value: 45
+id: 31  weight: 10   value: 88
+id: 4  weight: 5   value: 34
+id: 27  weight: 20   value: 78
+id: 19  weight: 37   value: 89
+id: 24  weight: 36   value: 63
+id: 37  weight: 43   value: 74
+id: 12  weight: 62   value: 90
+id: 33  weight: 71   value: 97
+id: 26  weight: 62   value: 80
+id: 14  weight: 77   value: 87
+id: 22  weight: 56   value: 60
+id: 32  weight: 88   value: 91
+id: 11  weight: 91   value: 92
+id: 29  weight: 71   value: 64
+id: 23  weight: 107   value: 94
+id: 8  weight: 60   value: 41
+id: 28  weight: 148   value: 88
+Total value: 1392  Total weight: 1047 Max weight: 1107
+The number of partial solutions generated: 1526567
+  this is problem: Instance With 38 Items
+id: 6  weight: 9   value: 99
+id: 37  weight: 12   value: 43
+id: 38  weight: 20   value: 60
+id: 1  weight: 2   value: 5
+id: 20  weight: 9   value: 20
+id: 27  weight: 13   value: 23
+id: 26  weight: 35   value: 53
+id: 29  weight: 84   value: 100
+id: 7  weight: 76   value: 90
+id: 16  weight: 67   value: 65
+id: 10  weight: 93   value: 86
+id: 5  weight: 96   value: 83
+id: 14  weight: 92   value: 73
+id: 17  weight: 30   value: 21
+id: 33  weight: 143   value: 96
+id: 30  weight: 85   value: 56
+Total value: 973  Total weight: 866 Max weight: 878
+The number of partial solutions generated: 1824250
+  this is problem: Instance With 39 Items
+id: 37  weight: 10   value: 70
+id: 25  weight: 13   value: 73
+id: 11  weight: 14   value: 68
+id: 23  weight: 15   value: 55
+id: 28  weight: 19   value: 67
+id: 22  weight: 15   value: 52
+id: 26  weight: 30   value: 95
+id: 38  weight: 28   value: 87
+id: 34  weight: 21   value: 59
+id: 12  weight: 37   value: 80
+id: 33  weight: 30   value: 64
+id: 18  weight: 43   value: 78
+id: 7  weight: 10   value: 15
+id: 6  weight: 50   value: 73
+id: 39  weight: 51   value: 61
+id: 9  weight: 79   value: 88
+id: 29  weight: 89   value: 93
+id: 30  weight: 96   value: 95
+Total value: 1273  Total weight: 650 Max weight: 706
+The number of partial solutions generated: 1107167
+  this is problem: Instance With 40 Items
+id: 1  weight: 2   value: 64
+id: 7  weight: 2   value: 54
+id: 31  weight: 4   value: 54
+id: 26  weight: 9   value: 39
+id: 8  weight: 29   value: 95
+id: 20  weight: 52   value: 90
+id: 13  weight: 29   value: 41
+id: 3  weight: 50   value: 64
+id: 27  weight: 78   value: 96
+id: 17  weight: 50   value: 58
+id: 25  weight: 77   value: 86
+id: 15  weight: 65   value: 72
+id: 32  weight: 78   value: 86
+id: 14  weight: 105   value: 92
+id: 33  weight: 77   value: 64
+id: 39  weight: 91   value: 73
+id: 24  weight: 74   value: 57
+Total value: 1185  Total weight: 872 Max weight: 872
+The number of partial solutions generated: 1961120
+  this is problem: Instance With 41 Items
+id: 22  weight: 9   value: 62
+id: 12  weight: 7   value: 37
+id: 19  weight: 41   value: 93
+id: 34  weight: 40   value: 74
+id: 21  weight: 43   value: 79
+id: 40  weight: 15   value: 27
+id: 15  weight: 30   value: 52
+id: 16  weight: 25   value: 41
+id: 27  weight: 28   value: 39
+id: 23  weight: 59   value: 74
+id: 38  weight: 74   value: 92
+id: 36  weight: 59   value: 63
+id: 29  weight: 87   value: 85
+id: 35  weight: 92   value: 80
+id: 13  weight: 92   value: 71
+id: 31  weight: 120   value: 91
+id: 11  weight: 122   value: 91
+id: 14  weight: 22   value: 16
+Total value: 1167  Total weight: 965 Max weight: 1048
+The number of partial solutions generated: 2039973
+  this is problem: Instance With 42 Items
+id: 5  weight: 2   value: 21
+id: 22  weight: 18   value: 99
+id: 30  weight: 17   value: 76
+id: 1  weight: 15   value: 63
+id: 15  weight: 21   value: 86
+id: 32  weight: 10   value: 35
+id: 19  weight: 30   value: 97
+id: 42  weight: 16   value: 50
+id: 2  weight: 38   value: 97
+id: 6  weight: 42   value: 91
+id: 10  weight: 39   value: 70
+id: 40  weight: 27   value: 48
+id: 29  weight: 58   value: 95
+id: 13  weight: 68   value: 99
+id: 14  weight: 66   value: 94
+id: 18  weight: 76   value: 89
+id: 37  weight: 32   value: 37
+id: 24  weight: 13   value: 14
+id: 12  weight: 58   value: 61
+Total value: 1322  Total weight: 646 Max weight: 720
+The number of partial solutions generated: 1866907
+  this is problem: Instance With 43 Items
+id: 43  weight: 2   value: 55
+id: 41  weight: 18   value: 84
+id: 21  weight: 14   value: 55
+id: 18  weight: 6   value: 23
+id: 38  weight: 27   value: 90
+id: 2  weight: 25   value: 72
+id: 16  weight: 17   value: 42
+id: 42  weight: 34   value: 82
+id: 8  weight: 17   value: 40
+id: 20  weight: 51   value: 96
+id: 31  weight: 28   value: 52
+id: 22  weight: 42   value: 73
+id: 11  weight: 59   value: 94
+id: 35  weight: 7   value: 11
+id: 3  weight: 72   value: 90
+id: 34  weight: 72   value: 89
+id: 15  weight: 60   value: 72
+Total value: 1120  Total weight: 551 Max weight: 584
+The number of partial solutions generated: 2066844
+  this is problem: Instance With 44 Items
+id: 19  weight: 2   value: 44
+id: 24  weight: 8   value: 100
+id: 43  weight: 23   value: 59
+id: 17  weight: 12   value: 29
+id: 29  weight: 31   value: 67
+id: 30  weight: 48   value: 69
+id: 32  weight: 48   value: 66
+id: 5  weight: 60   value: 71
+id: 44  weight: 84   value: 97
+id: 28  weight: 66   value: 64
+id: 1  weight: 76   value: 66
+id: 37  weight: 91   value: 77
+id: 42  weight: 43   value: 36
+id: 25  weight: 124   value: 99
+id: 14  weight: 95   value: 69
+id: 13  weight: 115   value: 81
+id: 16  weight: 137   value: 90
+id: 21  weight: 85   value: 53
+Total value: 1237  Total weight: 1148 Max weight: 1212
+The number of partial solutions generated: 2091949
+  this is problem: Instance With 45 Items
+id: 19  weight: 1   value: 66
+id: 11  weight: 2   value: 26
+id: 17  weight: 3   value: 27
+id: 24  weight: 10   value: 52
+id: 15  weight: 17   value: 78
+id: 38  weight: 13   value: 49
+id: 23  weight: 31   value: 75
+id: 30  weight: 8   value: 19
+id: 37  weight: 41   value: 90
+id: 43  weight: 50   value: 92
+id: 8  weight: 34   value: 58
+id: 34  weight: 44   value: 65
+id: 26  weight: 87   value: 100
+id: 36  weight: 50   value: 56
+id: 29  weight: 8   value: 8
+id: 16  weight: 72   value: 65
+id: 2  weight: 44   value: 37
+id: 9  weight: 59   value: 49
+id: 3  weight: 74   value: 60
+Total value: 1072  Total weight: 648 Max weight: 655
+The number of partial solutions generated: 2072180
+  this is problem: Instance With 46 Items
+id: 34  weight: 8   value: 97
+id: 24  weight: 19   value: 74
+id: 11  weight: 27   value: 80
+id: 2  weight: 25   value: 69
+id: 9  weight: 21   value: 27
+id: 45  weight: 24   value: 26
+id: 5  weight: 122   value: 96
+id: 22  weight: 122   value: 81
+id: 18  weight: 13   value: 8
+id: 29  weight: 165   value: 100
+id: 43  weight: 73   value: 44
+id: 30  weight: 59   value: 33
+id: 38  weight: 133   value: 65
+id: 35  weight: 135   value: 64
+id: 32  weight: 154   value: 71
+id: 7  weight: 181   value: 82
+Total value: 1017  Total weight: 1281 Max weight: 1293
+The number of partial solutions generated: 1653786
+  this is problem: Instance With 47 Items
+id: 34  weight: 2   value: 98
+id: 40  weight: 6   value: 89
+id: 18  weight: 5   value: 54
+id: 31  weight: 9   value: 49
+id: 6  weight: 16   value: 60
+id: 23  weight: 34   value: 100
+id: 2  weight: 23   value: 67
+id: 4  weight: 20   value: 58
+id: 43  weight: 29   value: 61
+id: 3  weight: 56   value: 75
+id: 17  weight: 93   value: 91
+id: 19  weight: 101   value: 88
+id: 16  weight: 75   value: 61
+id: 45  weight: 95   value: 66
+id: 9  weight: 98   value: 67
+id: 28  weight: 116   value: 79
+id: 32  weight: 62   value: 41
+id: 37  weight: 78   value: 49
+id: 8  weight: 164   value: 96
+Total value: 1349  Total weight: 1082 Max weight: 1098
+The number of partial solutions generated: 2065858
+  this is problem: Instance With 48 Items
+id: 11  weight: 5   value: 81
+id: 5  weight: 9   value: 78
+id: 3  weight: 5   value: 39
+id: 21  weight: 9   value: 62
+id: 18  weight: 9   value: 46
+id: 15  weight: 22   value: 88
+id: 20  weight: 16   value: 62
+id: 31  weight: 25   value: 72
+id: 4  weight: 23   value: 61
+id: 35  weight: 33   value: 85
+id: 14  weight: 32   value: 76
+id: 43  weight: 4   value: 9
+id: 2  weight: 36   value: 75
+id: 22  weight: 33   value: 67
+id: 42  weight: 61   value: 91
+id: 40  weight: 59   value: 83
+id: 45  weight: 52   value: 69
+id: 48  weight: 67   value: 86
+Total value: 1230  Total weight: 500 Max weight: 510
+The number of partial solutions generated: 2000085
+  this is problem: Instance With 49 Items
+id: 34  weight: 3   value: 71
+id: 47  weight: 4   value: 83
+id: 20  weight: 16   value: 68
+id: 48  weight: 18   value: 63
+id: 1  weight: 38   value: 98
+id: 33  weight: 26   value: 63
+id: 37  weight: 4   value: 9
+id: 38  weight: 28   value: 56
+id: 27  weight: 21   value: 33
+id: 29  weight: 68   value: 96
+id: 35  weight: 75   value: 96
+id: 14  weight: 74   value: 92
+id: 30  weight: 76   value: 87
+id: 5  weight: 30   value: 33
+id: 3  weight: 83   value: 88
+id: 18  weight: 32   value: 33
+id: 46  weight: 70   value: 65
+id: 25  weight: 117   value: 99
+id: 24  weight: 37   value: 29
+id: 17  weight: 91   value: 65
+Total value: 1327  Total weight: 911 Max weight: 911
+The number of partial solutions generated: 2094054
+  this is problem: Instance With 50 Items
+id: 22  weight: 7   value: 86
+id: 47  weight: 18   value: 68
+id: 32  weight: 21   value: 76
+id: 36  weight: 33   value: 75
+id: 40  weight: 28   value: 56
+id: 23  weight: 36   value: 68
+id: 14  weight: 33   value: 52
+id: 18  weight: 47   value: 67
+id: 38  weight: 33   value: 46
+id: 39  weight: 64   value: 81
+id: 13  weight: 68   value: 75
+id: 24  weight: 80   value: 86
+id: 30  weight: 31   value: 30
+id: 19  weight: 101   value: 87
+id: 50  weight: 108   value: 89
+id: 33  weight: 101   value: 83
+id: 1  weight: 106   value: 83
+id: 20  weight: 117   value: 91
+Total value: 1299  Total weight: 1032 Max weight: 1106
+The number of partial solutions generated: 2082726

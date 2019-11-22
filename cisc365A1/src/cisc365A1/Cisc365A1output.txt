@@ -1,0 +1,15 @@
+Selected Projects: 
+number   start   finish   cost
+15      18      32    14
+11      28      47    19
+9      43      62    19
+35      54      74    20
+38      70      86    16
+32      86      99    13
+5      93      111    18
+
+Account one projects will be:
+11  9  35  
+Account two projects will be
+15  38  32  5  
+cost of Account 1 : 58 cost of Account 2: 61
